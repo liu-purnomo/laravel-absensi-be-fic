@@ -259,7 +259,7 @@
                 </a>
                 <a href="features-settings.html"
                     class="dropdown-item has-icon">
-                    <i class="fas fa-cog"></i> Settings
+                    <i class="fas fa-cog"></i> Atur
                 </a>
                 <div class="dropdown-divider"></div>
                 <a href="#"
